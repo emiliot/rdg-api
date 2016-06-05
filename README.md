@@ -1,4 +1,4 @@
-##Toy project with [Django](https://www.djangoproject.com/)
+##RESTful API project with [Django](https://www.djangoproject.com/)
 
 Designed to play as a seed for a RESTful API
 
